@@ -12,6 +12,8 @@ The Network and F5 Automation decks are managed internally at Red Hat Ansible wi
 
 More than 30% of the slides were graphics, flow charts, icons, diagrams, etc which were uploaded as SVG files.  This became way too much work to manage, and slides quickly fell out of date and required someone skilled in using Adobe or other graphics programs to edit the SVG file.  By using the internal Red Hat IT tools (which use Google Apps) this makes it very easy for the field engineers and Solution Architects, as well as the Ansible team to manage slides.  We do realize this will make it harder for community members but we were getting very little PRs, issues, etc on the slides.
 
+link: https://ansible.github.io/workshops/
+
 **Can I still contribute?**
 
 Yes!  Google Apps is free, just make a slide with your free Google Apps account and link to the slide deck on an Issue for this Github repository.
